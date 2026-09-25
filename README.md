@@ -7,7 +7,7 @@ Games Programmer and Artist
 Currently in my second year studying a Bachelor of Games Design and Production at Griffith University, majoring in 3D arts and gameplay programming.
 
 * 🌍  I'm based in Queensland, Australia
-* 🖥️  See my portfolio at [Kita Neve](http://sites.google.com/view/kitaneve-portfolio/home)
+* 🖥️  See my portfolio at [K.NEVE](https://kitaneve.wixsite.com/portfolio)
 * ✉️  You can contact me at [kitaneve@icloud.com](mailto:kitaneve@icloud.com)
 * 🧠  I'm currently learning C, C++ and C#
 
